@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://violethawkinscpi859.github.io/violethawkinscpi859_github_io_zp528_10.txt
+Sitemap: https://violethawkinscpi859.github.io/violethawkinscpi859_github_io_zp528_15.txt
+Sitemap: https://violethawkinscpi859.github.io/violethawkinscpi859_github_io_zp528_2.txt
+Sitemap: https://violethawkinscpi859.github.io/violethawkinscpi859_github_io_zp528_24.txt
+Sitemap: https://violethawkinscpi859.github.io/violethawkinscpi859_github_io_zp528_3.txt
+Sitemap: https://violethawkinscpi859.github.io/violethawkinscpi859_github_io_zp528_8.txt
